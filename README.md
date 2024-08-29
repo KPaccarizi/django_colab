@@ -33,7 +33,7 @@ python manage.py runserver
 
 5. Access the app in your browser at `http://127.0.0.1:8000/`.
 
-![app2](app2.png)
+![app2](app4.png)
 ## Usage
 
 - Register a new user or log in with an existing account.
