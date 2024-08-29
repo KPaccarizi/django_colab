@@ -3,7 +3,7 @@
 
 A web application built with Django to manage blog posts and user profiles, featuring a responsive design and search functionality.
 
-
+![app](app1.png)
 
 ## Features
 
@@ -33,6 +33,7 @@ python manage.py runserver
 
 5. Access the app in your browser at `http://127.0.0.1:8000/`.
 
+![app2](app2.png)
 ## Usage
 
 - Register a new user or log in with an existing account.
@@ -54,6 +55,7 @@ We welcome contributions to improve the project. If you would like to contribute
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+![app3](app3.png)
 
 ## Acknowledgments
 
